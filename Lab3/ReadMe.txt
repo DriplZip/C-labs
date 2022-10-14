@@ -1,0 +1,1 @@
+In the file "param.txt" enter the parameter in the format: 00:00:00:00 day:hour:minute:second
